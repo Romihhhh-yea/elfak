@@ -1,0 +1,13 @@
+.vs/ 
+x64/ 
+Debug/ 
+*.vcxproj 
+*.vcxproj.filters 
+*.vcxproj.user 
+*.sln 
+*.ipch 
+*.VC.db 
+*.obj 
+*.pdb 
+*.ilk 
+*.idb 

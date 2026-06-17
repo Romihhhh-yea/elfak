@@ -1,0 +1,4 @@
+RB: 1 | Ime i prezime: Marko Markovic | Poeni publike: 80 | TIP: Glumac | Rekviziti: 10 | Pomocno osoblje: 5
+RB: 3 | Ime i prezime: Nikola Nikolic | Poeni publike: 95 | TIP: Pevac | Pesma: Lutka | Pomocno osoblje: 5
+RB: 2 | Ime i prezime: Jovana Jovic | Poeni publike: 70 | TIP: Glumac | Rekviziti: 4 | Pomocno osoblje: 2
+RB: 4 | Ime i prezime: Ana Anic | Poeni publike: 60 | TIP: Pevac | Pesma: Zora | Pomocno osoblje: 2
